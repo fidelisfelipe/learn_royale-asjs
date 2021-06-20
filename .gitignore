@@ -104,5 +104,6 @@ dist
 .tern-port
 
 #outros
-target
+**/target
+.vscode/
 
