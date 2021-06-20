@@ -16,12 +16,15 @@
 
 > https://github.com/BowlerHatLLC/generator-flexjs
 
->https://github.com/BowlerHatLLC/vscode-as3mxml/wiki/Choose-an-ActionScript-SDK-for-the-current-workspace-in-Visual-Studio-Code
+> https://github.com/BowlerHatLLC/vscode-as3mxml/wiki/Choose-an-ActionScript-SDK-for-the-current-workspace-in-Visual-Studio-Code
+
+> https://royale.apache.org/tourdejewel/
 
 see Spectrum Royale>https://unhurdle.github.io/spectrum-royale
 
 see Royale Material Design Layout>https://transpiledactionscript.com/examples/MDLExample/
 
+IC > https://builds.apache.org/job/Royale/
 
 create project with maven
 
